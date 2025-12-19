@@ -1,0 +1,3 @@
+Ram Lama,ramramram@gmail.com,Frontend developer
+Laxman Tamang,laxeman@gmail.com,Backend developer
+Sujar Rajkarnikar,sujarrajkarnikar@gmail.com,Designer,Web app developer
