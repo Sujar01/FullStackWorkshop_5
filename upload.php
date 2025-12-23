@@ -4,7 +4,7 @@ include 'header.php';
 function uploadPortfolioFile($file) {
     $allowedTypes = ['application/pdf', 'image/jpeg', 'image/png'];
     $maxSize = 2 * 1024 * 1024; 
-    $uploadDir = 'uploads/';
+    $uploadDir = 'upload/';
 
     if (!isset($file['tmp_name']) || $file['error'] !== UPLOAD_ERR_OK) {
         throw new Exception("File upload failed.");
